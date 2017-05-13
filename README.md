@@ -1,2 +1,3 @@
 # learn-you-some-erlang
-Learning Erlang
+
+Sample programs from the book **Learn You Some Erlang for great good!**
